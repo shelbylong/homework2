@@ -1,1 +1,6 @@
-
+head{
+	background-color: #FFFFFF;
+	padding:10px;
+	width:25%;
+	border:1px solid black;
+}
