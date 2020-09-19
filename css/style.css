@@ -19,7 +19,7 @@ h1{
 
 h2{
 	padding: 30px;
-	text-shadow: 5px 5px 2px #808080
+	text-shadow: 5px 5px 2px #808080;
 }
 
 p{
@@ -50,18 +50,18 @@ div{
 	text-align: left;
 }
 
-#yellow div{
+#yellow{
 	color: #000000;
 	background-color: #ffff00;
 	text-align: right;
 }
 
-#yellow div h2{
+#yellow h2{
 	text-shadow: 5px 5px 2px #c7e2c7;
 }
 
 #green{
-	background-color: #00ff00;
+	background-color: #006600;
 	text-align: left;
 }
 
