@@ -3,7 +3,7 @@
 	font-family: "Lucida Grande", sans-serif;
 }
 
-head, header, main, footer{
+head, body{
 	background-color: #000000;
 }
 
@@ -67,7 +67,9 @@ div{
 footer p{
 	text-align: right;
 	padding-bottom: 10px;
-	padding-right: 10px;	
+	padding-right: 10px;
+	padding-top: 0px;
+	padding-left: 0px;
 }
 	
 
