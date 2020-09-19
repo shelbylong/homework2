@@ -1,14 +1,9 @@
 *{
-	background-color: #000000;
 	color: #FFFFFF;
 	font-family: "Lucida Grande", sans-serif;
 }
 
-head{
-	background-color: #000000;
-}
-
-header{
+head, header, footer{
 	background-color: #000000;
 }
 
@@ -65,7 +60,7 @@ div{
 }
 
 #green{
-	background-color: #049a07;
+	background-color: #008700;
 	text-align: left;
 }
 
@@ -73,7 +68,6 @@ footer p{
 	text-align: right;
 	padding-bottom: 10px;
 	padding-right: 10px;	
-	background-color: #000000;
 }
 	
 
