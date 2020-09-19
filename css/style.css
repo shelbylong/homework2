@@ -50,13 +50,13 @@ div{
 	text-align: left;
 }
 
-#yellow div{
-	color: #000000;
+#yellow{
 	background-color: #ffff00;
 	text-align: right;
 }
 
 #yellow h2{
+	background-color: #000000;
 	text-shadow: 5px 5px 2px #c7e2c7;
 }
 
